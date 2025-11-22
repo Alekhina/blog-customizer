@@ -82,6 +82,7 @@ export const ArticleParamsForm = ({
 			contentWidth: contentWidth,
 			fontSizeOption: fontSize,
 		});
+		setIsOpened(false);
 	};
 
 	return (
